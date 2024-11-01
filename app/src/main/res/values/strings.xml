@@ -1,0 +1,469 @@
+<resources>
+    <string name="app_name">30DaysOfRecipes</string>
+    <string name="recipe1">Pollo al horno con hierbas y limón</string>
+    <string name="description1">Para esta deliciosa receta necesitarás:
+\n- 4 pechugas de pollo deshuesadas y sin piel
+\n- 2 limones (jugo y ralladura)
+\n- 2 dientes de ajo picados
+\n- 2 cucharadas de aceite de oliva
+\n- 1 cucharada de tomillo fresco picado
+\n- 1 cucharada de romero fresco picado
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe2">Ensalada de quinoa con vegetales asados</string>
+    <string name="description2">Ingredientes:
+\n- 1 taza de quinoa
+\n- 2 tazas de caldo de verduras
+\n- 1 pimiento rojo, cortado en tiras
+\n- 1 pimiento amarillo, cortado en tiras
+\n- 1 calabacín, cortado en rodajas
+\n- 1 berenjena, cortada en rodajas
+\n- 1 cebolla roja, cortada en gajos
+\n- 2 cucharadas de aceite de oliva
+\n- Sal y pimienta al gusto
+\n- Jugo de limón
+\n- Perejil fresco picado
+</string>
+
+    <string name="recipe3">Pasta a la carbonara con champiñones</string>
+    <string name="description3">Ingredientes:
+\n- 300g de pasta (spaghetti o fettuccine)
+\n- 200g de champiñones, cortados en rodajas
+\n- 150g de panceta o bacon, cortados en tiras
+\n- 3 huevos
+\n- 1 taza de queso parmesano rallado
+\n- 3 dientes de ajo, picados
+\n- 1/4 taza de perejil fresco picado
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe4">Salmón al horno con salsa de miel y mostaza</string>
+    <string name="description4">Ingredientes:
+\n- 4 filetes de salmón
+\n- 3 cucharadas de miel
+\n- 2 cucharadas de mostaza Dijon
+\n- 2 cucharadas de salsa de soja
+\n- 2 dientes de ajo, picados
+\n- Jugo de 1 limón
+\n- Sal y pimienta al gusto
+\n- Rodajas de limón (para decorar)
+\n- Perejil fresco picado (para decorar)
+</string>
+
+    <string name="recipe5">Tacos de pescado con salsa de aguacate</string>
+    <string name="description5">Ingredientes:
+\n- 500g de filetes de pescado blanco (como el tilapia o la panga)
+\n- 1 taza de harina de maíz (para las tortillas)
+\n- 1 aguacate maduro
+\n- 1 tomate, picado
+\n- 1 cebolla roja, picada
+\n- 1/4 taza de cilantro fresco picado
+\n- 1 lima, jugo
+\n- Sal y pimienta al gusto
+\n- Aceite para freír
+</string>
+
+    <string name="recipe6">Risotto de champiñones</string>
+    <string name="description6">Ingredientes:
+\n- 1 taza de arroz Arborio
+\n- 200g de champiñones, cortados en rodajas
+\n- 1 cebolla, picada finamente
+\n- 2 dientes de ajo, picados
+\n- 1/2 taza de vino blanco seco
+\n- 4 tazas de caldo de verduras
+\n- 1/4 taza de queso parmesano rallado
+\n- 2 cucharadas de mantequilla
+\n- Sal y pimienta al gusto
+\n- Perejil fresco picado (para decorar)
+</string>
+
+    <string name="recipe7">Ensalada griega con tzatziki casero</string>
+    <string name="description7">Ingredientes:
+\n- 1 pepino inglés
+\n- 3 tomates, cortados en trozos
+\n- 1 pimiento verde, cortado en trozos
+\n- 1/2 cebolla roja, en rodajas finas
+\n- 100g de aceitunas kalamata
+\n- 200g de queso feta, desmenuzado
+\n- 1/4 taza de aceite de oliva virgen extra
+\n- 2 cucharadas de jugo de limón
+\n- 2 cucharadas de vinagre de vino tinto
+\n- 1 diente de ajo, picado
+\n- 1/2 taza de yogur griego natural
+\n- 1 cucharada de eneldo fresco picado
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe8">Lasaña de verduras</string>
+    <string name="description8">Ingredientes:
+\n- 1 berenjena grande, cortada en rodajas finas
+\n- 2 calabacines, cortados en rodajas finas
+\n- 1 pimiento rojo, cortado en tiras
+\n- 1 pimiento amarillo, cortado en tiras
+\n- 1 cebolla, picada
+\n- 3 dientes de ajo, picados
+\n- 800g de tomate triturado en lata
+\n- 1/4 taza de albahaca fresca picada
+\n- 250g de queso ricotta
+\n- 1 taza de queso parmesano rallado
+\n- 12 láminas de pasta para lasaña
+\n- Sal y pimienta al gusto
+\n- Aceite de oliva
+</string>
+
+    <string name="recipe9">Pollo tikka masala con arroz basmati</string>
+    <string name="description9">Ingredientes:
+\n- 500g de pechugas de pollo, cortadas en trozos
+\n- 1 cebolla, picada
+\n- 3 dientes de ajo, picados
+\n- 1 trozo de jengibre fresco, rallado
+\n- 1 pimiento rojo, cortado en tiras
+\n- 400g de tomate triturado en lata
+\n- 200ml de leche de coco
+\n- 2 cucharadas de pasta de curry tikka masala
+\n- 1 cucharadita de comino molido
+\n- 1 cucharadita de cilantro molido
+\n- 1 cucharadita de cúrcuma
+\n- 1 cucharadita de garam masala
+\n- Sal y pimienta al gusto
+\n- Aceite de oliva
+\n- Arroz basmati cocido, para servir
+</string>
+
+    <string name="recipe10">Pimientos rellenos de quinoa y vegetales</string>
+    <string name="description10">Ingredientes:
+\n- 4 pimientos grandes (de colores variados)
+\n- 1 taza de quinoa, enjuagada
+\n- 2 tazas de caldo de verduras
+\n- 1 cebolla, picada
+\n- 2 dientes de ajo, picados
+\n- 1 zanahoria, rallada
+\n- 1 calabacín, rallado
+\n- 1/2 taza de maíz dulce enlatado
+\n- 1/2 taza de tomate triturado enlatado
+\n- 1 cucharadita de comino molido
+\n- 1 cucharadita de pimentón
+\n- Sal y pimienta al gusto
+\n- Queso rallado (opcional, para decorar)
+</string>
+
+    <string name="recipe11">Sopa de tomate casera con croutons de ajo</string>
+    <string name="description11">Ingredientes:
+\n- 1kg de tomates maduros, cortados en cuartos
+\n- 1 cebolla, cortada en trozos
+\n- 2 dientes de ajo, picados
+\n- 2 zanahorias, cortadas en rodajas
+\n- 2 tallos de apio, cortados en trozos
+\n- 4 tazas de caldo de verduras
+\n- 2 cucharadas de pasta de tomate
+\n- 1 cucharadita de azúcar
+\n- 1/4 taza de albahaca fresca picada
+\n- 1/4 taza de crema (opcional)
+\n- Sal y pimienta al gusto
+\n- Pan del día anterior, cortado en cubos
+\n- 2 cucharadas de aceite de oliva
+\n- 2 dientes de ajo, machacados
+</string>
+
+    <string name="recipe12">Stir-fry de ternera con vegetales al estilo asiático</string>
+    <string name="description12">Ingredientes:
+\n- 500g de carne de ternera (filete, solomillo), cortada en tiras finas
+\n- 2 cucharadas de salsa de soja
+\n- 1 cucharada de salsa de ostras
+\n- 1 cucharadita de azúcar
+\n- 2 cucharadas de aceite de sésamo
+\n- 3 dientes de ajo, picados
+\n- 1 trozo de jengibre fresco, rallado
+\n- 1 pimiento rojo, cortado en tiras
+\n- 1 pimiento verde, cortado en tiras
+\n- 1 zanahoria, cortada en rodajas finas
+\n- 1 cebolla, cortada en tiras
+\n- 200g de champiñones, cortados en rodajas
+\n- 2 tazas de brotes de soja
+\n- Arroz cocido, para servir
+</string>
+
+    <string name="recipe13">Pizza casera con tus ingredientes favoritos</string>
+    <string name="description13">Ingredientes:
+\n- Masa para pizza (puedes hacerla casera o comprarla prehecha)
+\n- Salsa de tomate
+\n- Queso mozzarella rallado
+\n- Tus ingredientes favoritos para pizza (pepperoni, champiñones, jamón, pimientos, etc.)
+\n- Aceite de oliva
+\n- Orégano seco
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe14">Ensalada de garbanzos con aguacate y tomate</string>
+    <string name="description14">Ingredientes:
+\n- 2 tazas de garbanzos cocidos (pueden ser de lata)
+\n- 1 aguacate maduro, cortado en cubos
+\n- 1 tomate grande, cortado en cubos
+\n- 1/4 taza de cebolla roja, picada finamente
+\n- 1/4 taza de cilantro fresco picado
+\n- Jugo de 1 limón
+\n- 2 cucharadas de aceite de oliva
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe15">Hamburguesas vegetarianas de lentejas</string>
+    <string name="description15">Ingredientes:
+\n- 2 tazas de lentejas cocidas
+\n- 1 cebolla roja, picada
+\n- 2 dientes de ajo, picados
+\n- 1 zanahoria, rallada
+\n- 1/2 taza de pan rallado
+\n- 1 huevo
+\n- 1 cucharadita de comino molido
+\n- 1 cucharadita de pimentón
+\n- Sal y pimienta al gusto
+\n- Pan para hamburguesas
+\n- Hojas de lechuga, rodajas de tomate y rodajas de aguacate (para acompañar)
+\n- Salsa de tu elección (ketchup, mostaza, mayonesa, etc.)
+</string>
+
+    <string name="recipe16">Tarta de manzana casera con crujiente de avena</string>
+    <string name="description16">Ingredientes:
+\n- Para la masa:
+\n- 1 1/2 tazas de harina de trigo
+\n- 1/2 taza de azúcar
+\n- 1/2 taza de mantequilla fría, cortada en cubos
+\n- 1 huevo
+\n- Para el relleno:
+\n- 4-5 manzanas, peladas y cortadas en rodajas finas
+\n- 1/4 taza de azúcar
+\n- 1 cucharadita de canela molida
+\n- Para el crujiente de avena:
+\n- 1/2 taza de harina de trigo
+\n- 1/2 taza de avena
+\n- 1/4 taza de azúcar moreno
+\n- 1/4 taza de mantequilla fría, cortada en cubos
+\n- Helado de vainilla (opcional, para servir)
+</string>
+
+    <string name="recipe17">Salmón al horno con salsa de miel y mostaza</string>
+    <string name="description17">Ingredientes:
+\n- 4 filetes de salmón
+\n- Sal y pimienta al gusto
+\n- Para la salsa:
+\n- 1/4 taza de miel
+\n- 2 cucharadas de mostaza Dijon
+\n- 2 cucharadas de salsa de soja
+\n- 2 dientes de ajo, picados
+\n- 1 cucharada de aceite de oliva
+\n- Jugo de 1 limón
+\n- Perejil fresco picado (opcional, para decorar)
+</string>
+
+    <string name="recipe18">Fajitas de pollo con guacamole casero</string>
+    <string name="description18">Ingredientes:
+\n- 500g de pechugas de pollo, cortadas en tiras
+\n- 1 pimiento rojo, cortado en tiras
+\n- 1 pimiento verde, cortado en tiras
+\n- 1 cebolla, cortada en tiras
+\n- 2 cucharadas de aceite de oliva
+\n- 1 cucharadita de comino molido
+\n- 1 cucharadita de pimentón
+\n- 1/2 cucharadita de chile en polvo (opcional, para un toque picante)
+\n- Sal y pimienta al gusto
+\n- Tortillas de maíz o trigo
+\n- Para el guacamole:
+\n- 2 aguacates maduros
+\n- 1 tomate, picado
+\n- 1/4 taza de cebolla roja, picada finamente
+\n- 1/4 taza de cilantro fresco picado
+\n- Jugo de 1 limón
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe19">Tacos de pescado con salsa de cilantro y lima</string>
+    <string name="description19">Ingredientes:
+\n- 500g de filetes de pescado blanco (tilapia, fletán, etc.)
+\n- 1/2 taza de harina de maíz
+\n- 1 cucharadita de pimentón
+\n- 1/2 cucharadita de comino molido
+\n- 1/2 cucharadita de ajo en polvo
+\n- Sal y pimienta al gusto
+\n- 2 cucharadas de aceite de oliva
+\n- Tortillas de maíz
+\n- Para la salsa de cilantro y lima:
+\n- 1 taza de yogur griego natural
+\n- 1/4 taza de cilantro fresco picado
+\n- Jugo de 1 lima
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe20">Arroz frito con camarones al estilo oriental</string>
+    <string name="description20">Ingredientes:
+\n- 2 tazas de arroz cocido (preferiblemente refrigerado)
+\n- 200g de camarones pelados y desvenados
+\n- 2 huevos, batidos
+\n- 1 zanahoria, cortada en cubitos
+\n- 1 pimiento rojo, cortado en cubitos
+\n- 1 pimiento verde, cortado en cubitos
+\n- 1 cebolla, picada
+\n- 3 dientes de ajo, picados
+\n- 1/2 taza de guisantes (pueden ser congelados)
+\n- 2 cucharadas de salsa de soja
+\n- 1 cucharada de aceite de sésamo
+\n- 2 cucharadas de aceite vegetal
+\n- Sal y pimienta al gusto
+\n- Cebolla verde picada (opcional, para decorar)
+</string>
+
+    <string name="recipe21">Pastel de carne clásico con puré de papas</string>
+    <string name="description21">Ingredientes:
+\n- 500g de carne de res molida
+\n- 1 cebolla, picada
+\n- 2 dientes de ajo, picados
+\n- 2 zanahorias, cortadas en cubitos
+\n- 1 tallo de apio, cortado en cubitos
+\n- 1/4 taza de guisantes (pueden ser congelados)
+\n- 2 cucharadas de salsa de tomate
+\n- 1 cucharada de salsa Worcestershire
+\n- 1 taza de caldo de carne
+\n- 4 tazas de puré de papas
+\n- 1/4 taza de queso parmesano rallado
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe22">Ensalada César con pollo a la parrilla</string>
+    <string name="description22">Ingredientes:
+\n- Para la ensalada:
+\n- Lechuga romana, lavada y cortada
+\n- Pechugas de pollo a la parrilla, cortadas en tiras
+\n- Pan tostado en cubitos (croutons)
+\n- Queso parmesano rallado
+\n- Para el aderezo:
+\n- 1/4 taza de mayonesa
+\n- 2 cucharadas de jugo de limón
+\n- 1 diente de ajo, picado
+\n- 1 cucharadita de mostaza Dijon
+\n- 1 cucharadita de salsa Worcestershire
+\n- 2 cucharadas de queso parmesano rallado
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe23">Curry de pollo al estilo tailandés</string>
+    <string name="description23">Ingredientes:
+\n- 500g de pechugas de pollo, cortadas en cubos
+\n- 1 lata de leche de coco
+\n- 1 pimiento rojo, cortado en tiras
+\n- 1 pimiento verde, cortado en tiras
+\n- 1 cebolla, cortada en tiras
+\n- 2 dientes de ajo, picados
+\n- 1 trozo de jengibre fresco, rallado
+\n- 2 cucharadas de pasta de curry rojo tailandés
+\n- 1 cucharada de salsa de pescado
+\n- 1 cucharada de azúcar moreno
+\n- 1 lima, cortada en gajos
+\n- Hojas de albahaca tailandesa (opcional, para decorar)
+\n- Arroz al vapor, para servir
+</string>
+
+    <string name="recipe24">Pasta Alfredo con champiñones y espinacas</string>
+    <string name="description24">Ingredientes:
+\n- 400g de pasta (fettuccine, penne, etc.)
+\n- 200g de champiñones, cortados en rodajas
+\n- 2 tazas de espinacas frescas
+\n- 3 dientes de ajo, picados
+\n- 1 taza de crema de leche
+\n- 1/2 taza de queso parmesano rallado
+\n- 2 cucharadas de mantequilla
+\n- Sal y pimienta al gusto
+\n- Perejil fresco picado (opcional, para decorar)
+</string>
+
+    <string name="recipe25">Rollitos de primavera caseros</string>
+    <string name="description25">Ingredientes:
+\n- 10 hojas de papel de arroz
+\n- 100g de fideos de arroz, cocidos según las instrucciones del paquete
+\n- 1 zanahoria, cortada en juliana
+\n- 1 pepino, cortado en juliana
+\n- 1/2 taza de brotes de soja
+\n- 1/4 taza de hojas de menta fresca
+\n- 1/4 taza de hojas de cilantro fresco
+\n- 100g de camarones cocidos y pelados (opcional)
+\n- Salsa de maní o salsa agridulce, para servir
+</string>
+
+    <string name="recipe26">Ensalada de quinoa con aguacate y tomate</string>
+    <string name="description26">Ingredientes:
+\n- 1 taza de quinoa
+\n- 2 tazas de agua o caldo de verduras
+\n- 1 aguacate maduro, cortado en cubos
+\n- 1 tomate grande, cortado en cubos
+\n- 1/4 taza de cebolla roja, picada finamente
+\n- 1/4 taza de cilantro fresco picado
+\n- Jugo de 1 limón
+\n- 2 cucharadas de aceite de oliva
+\n- Sal y pimienta al gusto
+</string>
+
+    <string name="recipe27">Ratatouille al horno con queso feta</string>
+    <string name="description27">Ingredientes:
+\n- 2 berenjenas, cortadas en rodajas
+\n- 2 calabacines, cortados en rodajas
+\n- 2 pimientos rojos, cortados en tiras
+\n- 2 tomates grandes, cortados en rodajas
+\n- 1 cebolla grande, cortada en rodajas
+\n- 3 dientes de ajo, picados
+\n- 1/4 taza de aceite de oliva
+\n- 2 cucharadas de tomillo fresco picado
+\n- Sal y pimienta al gusto
+\n- 200g de queso feta desmenuzado
+</string>
+
+    <string name="recipe28">Pollo a la parrilla con ensalada griega</string>
+    <string name="description28">Ingredientes:
+\n- Para el pollo:
+\n- 4 pechugas de pollo
+\n- 2 cucharadas de aceite de oliva
+\n- 2 dientes de ajo, picados
+\n- 1 cucharadita de orégano seco
+\n- Sal y pimienta al gusto
+\n- Para la ensalada griega:
+\n- Lechuga romana, lavada y cortada
+\n- Tomates cherry, cortados por la mitad
+\n- Pepino, cortado en rodajas
+\n- Aceitunas kalamata
+\n- Queso feta desmenuzado
+\n- Vinagreta de limón y orégano (mezcla de aceite de oliva, jugo de limón, orégano seco, sal y pimienta)
+</string>
+
+    <string name="recipe29">Espaguetis con albóndigas en salsa de tomate</string>
+    <string name="description29">Ingredientes:
+\n- 400g de espaguetis
+\n- Para las albóndigas:
+\n- 500g de carne molida (res o cerdo)
+\n- 1 huevo
+\n- 1/4 taza de pan rallado
+\n- 2 dientes de ajo, picados
+\n- 1/4 taza de perejil fresco picado
+\n- Sal y pimienta al gusto
+\n- Para la salsa de tomate:
+\n- 2 cucharadas de aceite de oliva
+\n- 1 cebolla, picada
+\n- 2 dientes de ajo, picados
+\n- 1 lata grande (400g) de tomates triturados
+\n- 2 cucharaditas de azúcar
+\n- Sal y pimienta al gusto
+\n- Hojas de albahaca fresca (opcional, para decorar)
+</string>
+
+    <string name="recipe30">Tarta de queso con frutos rojos</string>
+    <string name="description30">Ingredientes:
+\n- Para la base:
+\n- 200g de galletas tipo digestive
+\n- 100g de mantequilla derretida
+\n- Para el relleno:
+\n- 500g de queso crema
+\n- 1 taza de azúcar
+\n- 4 huevos
+\n- 1 cucharadita de esencia de vainilla
+\n- Para la cobertura:
+\n- Frutos rojos frescos (fresas, moras, frambuesas)
+\n- Mermelada de frutos rojos
+</string>
+</resources>
